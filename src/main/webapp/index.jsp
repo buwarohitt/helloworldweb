@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Welcome to world of Automation - Jenkins</h1>
 	<h2> This is a Test page for demonstrating Jenkins Integration</h2>
 		
 <form>
